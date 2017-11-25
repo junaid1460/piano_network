@@ -1,5 +1,5 @@
 # `Piano network`
 
-Here it [Piano.ipynb](./Piano\ model.ipynb)
+Here it is [Piano.ipynb](Piano_model.ipynb)
 
 # `License`:`MIT`
